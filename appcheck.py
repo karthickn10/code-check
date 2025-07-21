@@ -2,8 +2,7 @@
 import os # ❌ Unused import trends
 import sys
 
-def my_function() # Missing colon here
-    print("hello")
+
 class myclass: # ❌ Non-Pascal class name new
     def AddNumbers(self, a, b): # ❌ Wrong function name
         # ❌ Missing function docstring
@@ -11,6 +10,8 @@ class myclass: # ❌ Non-Pascal class name new
         unused_var = "hello" # ❌ Unused variable
         return temp
 
+def my_function() # Missing colon here
+    print("hello")
 def another_func():
     # ❌ Commented-out code
     # if unused_var == "hello":
