@@ -1,2 +1,2 @@
 
-print(hello world boi)
+print(hello world ddi)
