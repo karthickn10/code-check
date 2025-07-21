@@ -1,5 +1,5 @@
 # bad_code.py
-import os # ❌ Unused import
+import os # ❌ Unused import old to new
 import sys
 
 class myclass: # ❌ Non-Pascal class name
