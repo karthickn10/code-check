@@ -1,8 +1,8 @@
 # bad_code.py
-import os # ❌ Unused import old to new
+import os # ❌ Unused import trends
 import sys
 
-class myclass: # ❌ Non-Pascal class name
+class myclass: # ❌ Non-Pascal class name new
     def AddNumbers(self, a, b): # ❌ Wrong function name
         # ❌ Missing function docstring
         temp=a+b # ❌ Inconsistent space
