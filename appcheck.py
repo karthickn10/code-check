@@ -1,11 +1,11 @@
 # bad_code.py
-import os # ❌ Unused import new one
+import os # ❌ Unused import
 import sys
 
 class myclass: # ❌ Non-Pascal class name
     def AddNumbers(self, a, b): # ❌ Wrong function name
         # ❌ Missing function docstring
-        temp=a+b # ❌ Inconsistent spacing
+        temp=a+b # ❌ Inconsistent space
         unused_var = "hello" # ❌ Unused variable
         return temp
 
