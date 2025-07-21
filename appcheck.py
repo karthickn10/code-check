@@ -1,2 +1,2 @@
 
-print(hello world karthick hiii)
+print(hello world boi)
