@@ -2,6 +2,8 @@
 import os # ❌ Unused import trends
 import sys
 
+def my_function() # Missing colon here
+    print("hello")
 class myclass: # ❌ Non-Pascal class name new
     def AddNumbers(self, a, b): # ❌ Wrong function name
         # ❌ Missing function docstring
