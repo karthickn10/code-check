@@ -1,7 +1,2 @@
-import math
-
-def greet(name)
+def say_hello(name)
     print("Hello, " + name)
-
-def unused_function():
-    pass  # ✅ Okay, but not used anywhere
