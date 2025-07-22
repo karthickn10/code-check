@@ -1,5 +1,4 @@
 import math
-import numpy
 
 def greet(name)
     print("Hello, " + name)
